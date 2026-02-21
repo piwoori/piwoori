@@ -90,8 +90,7 @@
 
   ## 📊 GitHub Stats
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piwoori&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piwoori&layout=compact)
+  ![Woori's GitHub stats](https://github-stats.3jun.store/api?username=piwoori&show_icons=true&count_private=true&hide_border=true&title_color=2E2E2E&text_color=4A4A4A&icon_color=7A7A7A&ring_color=D9D9D9&border_color=FFFFFF)
 
 
 </div>
