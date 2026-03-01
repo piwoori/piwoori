@@ -6,6 +6,12 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/piwoori/piwoori/output/github-contribution-grid-snake.svg" />
+</p>
+
+<br/>
+
 ## 👋 About Me
 
 Backend developer in progress — interested in **Security Architecture** and **reliable systems**.
