@@ -1,11 +1,15 @@
 <div>
 
-  <!-- Header -->
-  ![header](https://capsule-render.vercel.app/api?type=rounded&color=F2F2F2&height=220&section=header&text=Woori%20%7C%20Backend%20Developer&fontSize=20&fontColor=2E2E2E)
+  <!-- 🐾 Git Animals -->
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/piwoori" width="100%"/>
+  </a>
 
 </div>
 
 <div>
+
+  <br/>
 
   ## 👋 About Me
   #### :computer: Backend-focused Computer Science student (Senior)
@@ -83,14 +87,5 @@
   <a href="https://github.com/piwoori/growlog-frontend"><img src="https://img.shields.io/badge/Frontend-github-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://github.com/piwoori/growlog-backend"><img src="https://img.shields.io/badge/Backend-github-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://github.com/piwoori/growlog-ai"><img src="https://img.shields.io/badge/AI-github-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-
-  <br/>
-  <br/>
-
-  ## 📊 GitHub Stats
-
-  ![Woori's GitHub stats](https://github-stats.3jun.store/api?username=piwoori&show_icons=true&count_private=true&hide_border=true&title_color=2E2E2E&text_color=4A4A4A&icon_color=7A7A7A&ring_color=D9D9D9&border_color=FFFFFF)
-
 
 </div>
