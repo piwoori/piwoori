@@ -25,32 +25,40 @@ Backend developer in progress — interested in **Security Architecture** and **
 
 ## 🧱 Tech Stack
 
-### 💻 Language
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<table>
+  <tr>
+    <td width="140"><b>Language</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Infra / Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-<br/>
-
-### ⚙️ Backend
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-
-<br/>
-
-### 🤖 AI / Data
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square"/>
-
-<br/>
-
-### ☁️ Infra / Tools
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-
-<br/>
 <br/>
 
 ## 🏆 Awards
@@ -70,7 +78,6 @@ AI 기반 재활용 분리수거 보조 시스템 (시각장애인 보조 서비
 - Focus: AI 모델 활용 서비스 구조 설계, API 흐름 설계  
 - Achievement: 🥈 은상 수상  
 
----
 
 ### 🚗 불법주차 감지 AI 시스템
 스마트폰 기반 객체 탐지 + 서버 연동 자동 신고 시스템  
@@ -80,7 +87,6 @@ AI 기반 재활용 분리수거 보조 시스템 (시각장애인 보조 서비
 - Focus: AI + Backend 시스템 통합  
 - Achievement: 🥉 동상 수상  
 
----
 
 ### 🌱 Growlog
 자기관리/성장 기록 백엔드 서비스  
