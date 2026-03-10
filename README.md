@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-Backend developer in progress — interested in **Security Architecture** and **reliable backend systems**.
+Backend developer focused on **AI-powered services, system architecture, and security-aware backend design**.
 
 I enjoy designing **API-driven services**, integrating **AI models into real applications**,  
 and building systems that are **scalable, secure, and maintainable**.
@@ -84,42 +84,63 @@ and building systems that are **scalable, secure, and maintainable**.
 
 <br/>
 
-## 📌 Featured Projects
-
+## 🚀 Projects
 ### 🛡️ Re-트리버  
 AI 기반 재활용 분리수거 보조 시스템 (시각장애인 보조 서비스)
 
+시각장애인이 쓰레기 사진을 촬영하면 AI가 객체를 인식하고  
+재활용 분류 정보를 **음성 안내(TTS)**로 제공하는 접근성 중심 서비스입니다.
+
 - **Role:** 서버 아키텍처 기획 및 시스템 설계, 논문 작성
-- **Focus:** AI 모델 기반 서비스 아키텍처 설계 및 API 흐름 설계
+- **AI Model:** YOLOv5 기반 이미지 객체 인식
+- **Data:** AI Hub 재활용품 분류 데이터셋 활용
+- **System Flow:**  
+  사용자 촬영 이미지 → 서버 AI 분석 → 재활용 분류 결과 생성 → TTS 음성 안내 제공
+- **Focus:** AI 모델을 활용한 접근성 중심 서비스 아키텍처 설계
 - **Achievement:** 🥈 한국정보기술학회 우수논문상 (은상)
 
----
+<br/>
 
 ### 🚗 불법주차 감지 AI 시스템  
 스마트폰 기반 객체 탐지 + 서버 연동 자동 신고 시스템
 
+특별 주차 구역(장애인 구역, 소화전, 어린이 보호구역 등)의  
+불법 주차 차량을 **스마트폰 기반 AI 객체 탐지 모델로 실시간 감지**하고  
+관리자에게 알림 및 신고 기능을 제공하는 시스템입니다.
+
 - **Role:** 팀장 (PM)
 - **Responsibility:** AI 모델 학습, 서버 API 설계, 전체 시스템 아키텍처 설계
-- **Research:** 논문 기획 및 전체 논문 작성
-- **Stack:** Python, YOLO, Flask, Spring
-- **Focus:** AI 객체 탐지 모델 + Backend 서버 통합 시스템 설계
+- **AI Model:** YOLOv8 객체 탐지 모델
+- **Dataset:** 약 10,000장의 특별 구역 이미지 데이터 학습
+- **Detection Target**
+  - 특별 주차 구역 (장애인 구역, 소화전, 어린이 보호구역)
+  - 차량 객체
+- **System Architecture**
+  - Mobile App → Backend API → AI Server → 관리자 알림
+- **Infra:** AWS Cloud
+- **Security:** Hyperledger Fabric 기반 신고 데이터 로그 관리
+- **Stack:** Python, YOLOv8, FastAPI, MySQL
 - **Achievement**
   - 🥉 캡스톤 디자인 경진대회 동상
   - 🥉 한국정보기술학회 우수논문상 (동상)
 
----
+<br/>
 
 ### 🌱 Growlog  
 AI 기반 감정 기록 및 자기관리 서비스
 
+사용자의 **할 일, 감정 기록, 회고 데이터를 통합 관리**하고  
+AI 감정 분석을 통해 자기 관리 패턴을 시각화하는 서비스입니다.
+
 - **Role:** 서비스 기획, DB 설계, Backend API 개발
 - **Stack:** Spring Boot, JPA, MySQL
 - **Focus**
-  - RESTful API 설계
-  - 인증 및 데이터 모델링
-  - AI 감정 분석 서버 연동
-
-**Repos**
+  - 사용자 활동 데이터를 통합 관리하는 서비스 API 설계
+  - 감정 분석 AI 서버와 연동하는 데이터 흐름 설계
+  - 감정 기록 및 회고 데이터를 기반으로 한 자기관리 서비스 구조 구현
+- **System Architecture**
+  - Frontend → Backend API → Database → AI Server
+- **Repos**
 
 <a href="https://github.com/piwoori/growlog-frontend"><img src="https://img.shields.io/badge/Frontend-github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://github.com/piwoori/growlog-backend"><img src="https://img.shields.io/badge/Backend-github-181717?style=flat-square&logo=github&logoColor=white"/></a>
