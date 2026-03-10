@@ -82,9 +82,6 @@ AI 기반 재활용 분리수거 보조 시스템 (시각장애인 보조 서비
 - Focus: AI 모델 활용 서비스 구조 설계, API 흐름 설계  
 - Achievement: 🥈 은상 수상
 
-**Repos**  
-<a href="https://github.com/Re-Treiver"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
 ### 🚗 불법주차 감지 AI 시스템  
 스마트폰 기반 객체 탐지 + 서버 연동 자동 신고 시스템  
 
@@ -96,9 +93,6 @@ AI 기반 재활용 분리수거 보조 시스템 (시각장애인 보조 서비
 - Achievement:
   - 🥉 캡스톤 디자인 경진대회 동상
   - 🥉 2025 한국정보기술학회 하계종합학술대회 우수논문상 (동상)
-
-**Repos**  
-<a href="https://github.com/2025-Capstone-Teamproject"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 ### 🌱 Growlog
 자기관리/성장 기록 백엔드 서비스  
